@@ -205,13 +205,13 @@ The project uses a custom CSS design system (`index.css`) with:
 
 ## 👥 Team
 
-| Member | Role | Enrollment |
+| Member | Role | SAP ID  |
 |--------|------|------------|
-| **Vraj Patel** | Full-Stack Developer, Frontend Lead | 23002171310159 |
-| **Jeel Shah** | Backend Developer, Database Design | 23002171310149 |
-| **Rudra Desai** | UI/UX Designer, Testing | 23002171310113 |
+| **Vraj Ghevariya** | Full-Stack Developer, Frontend Lead |53013240132 |
+| **Jeel Trivedi** | Backend Developer, Database Design | 53013240041 |
+| **Rudra Dankhara** | UI/UX Designer, Testing | 53013240042 |
 
-**Guide**: Prof. Riddhi Mavani
+**Guide**: Prof. Tirup Parmar 
 
 ---
 
@@ -219,4 +219,4 @@ The project uses a custom CSS design system (`index.css`) with:
 
 This project was developed as a college project for academic purposes.
 
-© 2026 Smart Mall — Darshan University
+© 2026 Smart Mall OS
